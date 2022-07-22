@@ -1,3 +1,15 @@
+# code running pictures
+
+## run
+![5-run](https://user-images.githubusercontent.com/8585779/180340038-1667a606-4282-4450-a36f-d6e452859a5c.PNG)
+## create
+![5-create](https://user-images.githubusercontent.com/8585779/180340046-8df84785-c264-439d-841e-7aaa3eb40e6b.PNG)
+## transfer
+![transfer](https://user-images.githubusercontent.com/8585779/180340051-1a34cc46-ebc3-4881-9cf2-8139780bc58b.PNG)
+## revoke
+![5-revoke](https://user-images.githubusercontent.com/8585779/180340056-6b69a424-bb1e-430f-affb-94fa663b48d6.PNG)
+
+
 # Substrate Node Template
 
 [![Try on playground](https://img.shields.io/badge/Playground-Node_Template-brightgreen?logo=Parity%20Substrate)](https://docs.substrate.io/playground/) [![Matrix](https://img.shields.io/matrix/substrate-technical:matrix.org)](https://matrix.to/#/#substrate-technical:matrix.org)
